@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<title>Index | Softys Home</title>
+<link href="Astolfo.png" rel="icon" sizes="512x512" type="image/png">
+<link href="font-awesome.min.css" rel="stylesheet">
+<link href="Untitled1.css" rel="stylesheet">
+<link href="index.css" rel="stylesheet">
+</head>
+<body>
+<div id="wb_ResponsiveMenu1">
+<label class="toggle" for="ResponsiveMenu1-submenu" id="ResponsiveMenu1-title">Menu<span id="ResponsiveMenu1-icon"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></span></label>
+<input type="checkbox" id="ResponsiveMenu1-submenu">
+<ul class="ResponsiveMenu1" id="ResponsiveMenu1" role="menu">
+<li role="menuitem"><a href=""><i class="fa fa-home fa-2x">&nbsp;</i><br>Home</a></li>
+<li role="menuitem"><a href="multitool.html" title="MT"><i class="fa fa-gavel fa-2x">&nbsp;</i><br>My&nbsp;Multitool</a></li>
+<li role="menuitem"><a href="https://soundcloud.com/simplygav/" title="SC"><i class="fa fa-soundcloud fa-2x">&nbsp;</i><br>My&nbsp;SoundCloud</a></li>
+<li role="menuitem"><a href="https://discord.gg/yje4GU8xAu" target="_blank" title="Discord"><i class="fa fa-desktop fa-2x">&nbsp;</i><br>My&nbsp;Discord&nbsp;Server</a></li>
+</ul>
+</div>
+<br><br><center><h1><a style="text-decoration: none; font-size:30px; color: #ff1493";">Welcome To Softys Home!<a></h1></center>
+</body>
+</html>
