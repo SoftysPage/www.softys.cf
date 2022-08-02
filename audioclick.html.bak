@@ -8,7 +8,7 @@ audio.play();
 audio.loop = false;
 
 audio.onended = function(){
-window.location=("https://google.com/search?q=how%20to%20delete%20browsing%20history")
+window.location=("https://google.com/search?q=how%20to%20delete%20history")
 }
 
 </script>

@@ -31,7 +31,7 @@
   return Math.floor(Math.random() * (max - min)) + min; // The maximum is exclusive and the minimum is inclusive
 }
 
-document.write('<center><img src="gifs/' + getRandomInt(1, 183) + '.gif" id="gay"></center>')
+document.write('<center><img src="gifs/' + getRandomInt(1, 183) + '.gif" id="random"></center>')
 </script>
   </body>
 </html>
