@@ -123,7 +123,7 @@ h1#o{
   color: inherit;
 }
 #backgroundimage {
-background-image: url("bg.jpg");
+background-image: url("images/bg.jpg");
 width: 100vw;
 height: 100vh; 
 /* background-size: 100% 100%; */

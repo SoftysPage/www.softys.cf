@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Hmm | Softys Home</title>
+    <title>Index | Softys Home</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
@@ -22,8 +22,16 @@
 		<li><a href="misc.html">Misc</a></li>
       </ul>
     </nav>
-	<body style="background-color:black;">
-<div id="wb_Shape1" style="position:absolute;left:810px;top:700px;width:238px;height:167px;z-index:1;">
-</html>
+  <body style="background-color:black;">
+  <center><nobr><h1 id="Large"><a style=font-size:45px;>Haii, Thanks For Visiting My Site, Have A Look Around :3</></nobr></center><br>
+<script>
+  function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min; // The maximum is exclusive and the minimum is inclusive
+}
+
+document.write('<center><img src="gifs/' + getRandomInt(1, 183) + '.gif" id="gay"></center>')
+</script>
   </body>
-<a onclick="(function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/51922/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();"><img src="images/hole.png" id="Shape1" alt="" width="238" height="167" style="width:238px;height:167px;"></a></div>
+</html>
