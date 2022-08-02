@@ -94,8 +94,8 @@ section{
 
 h1#Large{
   display: inline;
-  width: 500px;
-  /* position:relative;   */
+  /* width: 500px; */
+  position:relative;  
   left: 40px;
   top: 40px;  
   color: white;
