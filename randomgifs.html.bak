@@ -8,22 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
   </head>
   <body>
-    <nav>
-      <input type="checkbox" id="check">
-      <label for="check" class="checkbtn">
-        <i class="fas fa-bars"></i>
-      </label>
-      <label class="logo">Softys Home</label>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="soundcloud.html" target="_blank">SoundCloud</a></li>
-        <li><a href="discord.html" target="_blank">Discord</a></li>
-		<li><a href="misc.html">Misc</a></li>
-      </ul>
-    </nav>
-  <body style="background-color:black;">
-  <center><nobr><h1 id="Large"><a style=font-size:45px;>Haii, Thanks For Visiting My Site, Have A Look Around :3</></nobr></center><br>
 <script>
   function getRandomInt(min, max) {
   min = Math.ceil(min);
@@ -33,5 +17,6 @@
 
 document.write('<center><img src="gifs/' + getRandomInt(1, 183) + '.gif" id="random"></center>')
 </script>
-  </body>
+<body style="background-color:black;">
+</body>
 </html>
