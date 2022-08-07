@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Index | Softys Home</title>
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
 		<ul>
@@ -14,6 +14,11 @@
 					<a href="https://softyredirect.cf/gg">My Discord Server</a>
 					<a href="https://softyredirect.cf/sc">My SoundCloud</a>
 					<a href="https://softyredirect.cf/SMT">My Multitool [Download URL]</a>
+				</div>
+			<li class="dropdown2">
+				<a href="#" class="dropbtn2">Links</a>
+				<div class="dropdown-content2">
+					<a href="coolstuff.html">Cool Stuff</a>
 				</div>
 			</li>
 		</ul>
