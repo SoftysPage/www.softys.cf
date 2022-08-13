@@ -92,7 +92,7 @@ li.dropdown a, .dropbtn
 
 .hl
 {
-	font-size: 10px;
+	font-size: 15px;
 	text-decoration: none;
 }
 /* Made By Softy */
